@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hola Tomi
+          Hola Juampi
         </a>
       </header>
     </div>
